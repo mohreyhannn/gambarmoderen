@@ -1,4 +1,4 @@
-#Program Pewarnaan Foto Hitam Putih Menggunakan OpenCV
+# Program Pewarnaan Foto Hitam Putih Menggunakan OpenCV
 Program ini digunakan untuk mengubah foto hitam putih menjadi foto berwarna menggunakan teknik:
 
 Penyesuaian Intensitas (Brightness & Contrast)
