@@ -8,7 +8,7 @@ Color Mapping
 Penyesuaian Hue & Saturation (HSV)
 
 Program ditulis menggunakan Python, OpenCV, dan Matplotlib.
-#Fitur Utama
+# Fitur Utama
 Membaca foto hitam putih (grayscale)
 
 Meningkatkan intensitas (brightness & contrast)
@@ -20,7 +20,7 @@ Menyesuaikan Hue dan Saturation agar terlihat lebih natural
 Menampilkan hasil sebelum & sesudah
 
 Menyimpan foto hasil pewarnaan otomatis
-#Struktur Program
+# Struktur Program
 Program terdiri dari 6 bagian utama:
 
 Membaca gambar hitam putih
@@ -34,7 +34,7 @@ Penyesuaian warna (Hue & Saturation)
 Menampilkan hasil
 
 Menyimpan file hasil
-#Hasil Akhir
+# Hasil Akhir
 Program menghasilkan foto hitam putih yang berubah menjadi:
 
 Lebih cerah
