@@ -153,6 +153,6 @@ plt.show()
 # === 6. Simpan Hasil ===
 cv2.imwrite('foto_modern.jpg', final_img)
 print("✅ Gambar sudah disimpan sebagai 'foto_modern.jpg'")
-```
+
 
 
